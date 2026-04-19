@@ -14,5 +14,7 @@ Uma página para testar os efeitos do Flexbox para fins de aprendizagem, tema n�
 
 ### Link do Projeto
 <a href="https://ian-roanito.github.io/Pagina-Flexbox/">Clique aqui para visualizar a Página</a>
+ - Ainda em desenvolvimento
+
 
 ### Espero que goste <3
